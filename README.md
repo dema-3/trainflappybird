@@ -2,7 +2,7 @@
 
 ## Training Results
 
-![Gameplay](images/Screenshot%202026-02-12%20202753.png)
+![Gameplay](Screenshot 2026-02-12 202753.png)
 ![Training Log](images/Screenshot%202026-02-12%20202822.png)
 ![Result](images/Screenshot%202026-02-12%20202840.png)
 
