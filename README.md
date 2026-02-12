@@ -5,7 +5,7 @@
 ## Training Results
 
 ### Gameplay
-![Gameplay](images/gameplay.png)
+![Gameplay](images/images/gameplay.png)
 
 
 
