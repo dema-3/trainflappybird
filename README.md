@@ -1,5 +1,15 @@
 # Train Flappy Bird using Deep Q-Network (DQN)
 
+## Training Results
+
+### Gameplay
+![Gameplay](images/Screenshot%202026-02-12%20202753.png)
+
+### Training Output
+![Training Log](images/Screenshot%202026-02-12%20202822.png)
+
+### Additional Result
+![Result](images/Screenshot%202026-02-12%20202840.png)
 
 This project trains an AI agent to play Flappy Bird using Deep Reinforcement Learning (DQN).  
 
