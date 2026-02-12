@@ -90,13 +90,12 @@ Training rewards will be plotted and the model will be saved after training.
 
 ---
 
-## Notes
+## Training Results
+
+![Training Result](images/page_12.png)
+
+![Training Log](images/page_13.png)
 
 The original project code was reconstructed based on my project slides after the initial files were lost.  
 The implementation follows the same structure and algorithm (DQN with replay memory and target network).
 
----
-
-## Author
-
-Your Name Here
