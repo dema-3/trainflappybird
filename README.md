@@ -92,6 +92,7 @@ python train_flappybird.py
 ```
 
 Training rewards will be plotted and the model will be saved after training.
+![Gameplay](images/images/training_log.png)
 
 ---
 
@@ -99,4 +100,6 @@ Training rewards will be plotted and the model will be saved after training.
 
 The original project code was reconstructed based on my project slides after the initial files were lost.  
 The implementation follows the same structure and algorithm (DQN with replay memory and target network).
+
+![Gameplay](images/images/result.png)
 
